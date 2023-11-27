@@ -11,7 +11,7 @@ Can you find the robots                         https://jupiter.challenges.picoc
 
 
 
-# **Hints :bulb:**
+# **Hints:bulb:**
 
 
 What part of the website could tell you where the creator doesn't want you to look?
