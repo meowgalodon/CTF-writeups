@@ -23,10 +23,12 @@ Once we open the link, we are greeted with a seemingly basic website. The title 
 https://jupiter.challenges.picoctf.org/problem/56830/robots.txt, we see this list:
 
 User-agent: *
+
 Disallow: /1bb4c.html
 
 
 By going to https://jupiter.challenges.picoctf.org/problem/56830/1bb4c.html, we finally see the flag.
+
 **Flag**
 
 
