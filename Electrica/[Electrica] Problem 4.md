@@ -9,15 +9,17 @@ tags: [Cryptography]
 **Problem:**
 
 
-![image](https://hackmd.io/_uploads/SkGcQVkTC.png)
+Among the oldest ciphers used in practice are those of the ancient Romans. One particular Caesar cipher was used by Julius Caesar, and a similar one by Octavius. In this cipher letters are shifted along the alphabet by a constant number of positions.
+
+Now the cryptogram below does not use the Caesar cipher, but uses an even older method of encipherment. Your task is to decrypt it and find the answer to this problem. 
 
 
 
 **Cryptogram:**
 
-:::warning
+
 dvoowlmvgsvdliwblfhvvprhzgyzhs
-:::
+
 
 Hello everyone, this is problem 4 from ***Electrica - the puzzle challenge:*** http://www.caesum.com/game/index.php.
 
