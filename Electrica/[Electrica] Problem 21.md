@@ -8,7 +8,8 @@ tags: [Math]
 
 ###### tags: `Math`
 
-![image](https://hackmd.io/_uploads/SkK6ipKTA.png)
+![image](https://github.com/user-attachments/assets/30e97592-669b-48ce-a07c-f7425a8fbd16)
+
 
 
 ## :memo: Where do I start?
@@ -19,7 +20,8 @@ tags: [Math]
 
 ### Step 2: Paste the number
 
-- I pasted the number and I got this result: ![image](https://hackmd.io/_uploads/BkZr6TFTR.png)
+- I pasted the number and I got this result: ![image](https://github.com/user-attachments/assets/4e5c6b25-5a8f-4646-ade4-768487c27766)
+
 
 
 
