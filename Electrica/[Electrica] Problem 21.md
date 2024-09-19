@@ -20,7 +20,8 @@ tags: [Math]
 
 ### Step 2: Paste the number
 
-- I pasted the number and I got this result: ![image](https://github.com/user-attachments/assets/4e5c6b25-5a8f-4646-ade4-768487c27766)
+- I pasted the number and I got this result:
+![image](https://github.com/user-attachments/assets/4e5c6b25-5a8f-4646-ade4-768487c27766)
 
 
 
