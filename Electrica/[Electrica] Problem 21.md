@@ -31,5 +31,5 @@ tags: [Math]
 
 ### Step 3: Solution
 
-- As you can see the largest prime number factor of this problem is **"9375829".**
+- As you can see the largest prime number factor of this problem is **"86020717".**
 
